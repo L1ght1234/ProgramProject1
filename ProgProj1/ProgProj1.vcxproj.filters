@@ -18,5 +18,13 @@
     <ClInclude Include="affine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="affine_operator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="affine_operator.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
