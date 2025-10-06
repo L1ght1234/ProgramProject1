@@ -2,7 +2,7 @@
 #include <random>
 #include <fstream>
 #include <stdexcept>
-#include <iomanip
+#include <iomanip>
 #include <cassert>
 
 AffineOperator::AffineOperator(const std::vector<AffineTransform>& transforms)
